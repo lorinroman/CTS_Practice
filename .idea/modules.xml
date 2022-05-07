@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CTS_Practice.iml" filepath="$PROJECT_DIR$/CTS_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital__ex4/spital__ex4.iml" filepath="$PROJECT_DIR$/spital__ex4/spital__ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital_ex1/spital_ex1.iml" filepath="$PROJECT_DIR$/spital_ex1/spital_ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital_ex10/spital_ex10.iml" filepath="$PROJECT_DIR$/spital_ex10/spital_ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital_ex2/spital_ex2.iml" filepath="$PROJECT_DIR$/spital_ex2/spital_ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital_ex3/spital_ex3.iml" filepath="$PROJECT_DIR$/spital_ex3/spital_ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital_ex5/spital_ex5.iml" filepath="$PROJECT_DIR$/spital_ex5/spital_ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital_ex6/spital_ex6.iml" filepath="$PROJECT_DIR$/spital_ex6/spital_ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital_ex7/spital_ex7.iml" filepath="$PROJECT_DIR$/spital_ex7/spital_ex7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital_ex8/spital_ex8.iml" filepath="$PROJECT_DIR$/spital_ex8/spital_ex8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spital_ex9/spital_ex9.iml" filepath="$PROJECT_DIR$/spital_ex9/spital_ex9.iml" />
+    </modules>
+  </component>
+</project>
